@@ -1,0 +1,28 @@
+API_KEY=726716768359261
+API_SECRET= zKRzhG1B2X5WWTFU_u5Zht2M_Bc
+CLOUD_NAME=dgsaxh0aj
+DB_URI=mongodb://ldtaxgov_ldtaxgov:jSy%26xD1Mo%40@104.161.43.62:27017/ldtaxgov_mydb?authSource=admin
+# mongorestore --uri="mongodb://localhost:27017" --dir="/home/jahid-kali/Desktop/Projects/ldtaxgov/dbbackup"
+JWT_SECRET=0b51aacb41b7348e3820d6d2c24f1e1b655fc8b73ef830cfe30b2a4971f71c3128849c6ea66067e1cbf0f53b4b8bd5093a8283e0f35f0afeb889e310ab45063b
+PORT=30106
+frontend_url=https://ldtaxgov.xyz
+server_url=https://ldtaxgov.xyz
+
+bkash_username=01600644830
+bkash_password=28&bLc4}Os^
+bkash_app_key=T984hwSGdqZmCOUBtQvXTDWmtc
+bkash_secret_key=CtCUDqVQHDIq0oaQINluNgMQLgHbWv8R8kaQvkOL1S2YvxLIQO7T
+bkash_grant_token_url=https://tokenized.pay.bka.sh/v1.2.0-beta/tokenized/checkout/token/grant
+bkash_create_payment_url=https://tokenized.pay.bka.sh/v1.2.0-beta/tokenized/checkout/create
+bkash_execute_payment_url=https://tokenized.pay.bka.sh/v1.2.0-beta/tokenized/checkout/execute
+
+# Sandbox
+# bkash_username=01770618567
+# bkash_password=D7DaC<*E*eG
+# bkash_app_key=0vWQuCRGiUX7EPVjQDr0EUAYtc
+# bkash_secret_key=jcUNPBgbcqEDedNKdvE4G1cAK7D3hCjmJccNPZZBq96QIxxwAMEx
+# bkash_grant_token_url=https://tokenized.sandbox.bka.sh/v1.2.0-beta/tokenized/checkout/token/grant
+# bkash_create_payment_url=https://tokenized.sandbox.bka.sh/v1.2.0-beta/tokenized/checkout/create
+# bkash_execute_payment_url=https://tokenized.sandbox.bka.sh/v1.2.0-beta/tokenized/checkout/execute
+
+OPENAI_API_KEY="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"
