@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"51a34ba080ba4f59819b0682fb502f20","collectionName":"rechargerequests","type":"collection"}
