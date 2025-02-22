@@ -1,10 +1,11 @@
 API_KEY=726716768359261
 API_SECRET= zKRzhG1B2X5WWTFU_u5Zht2M_Bc
 CLOUD_NAME=dgsaxh0aj
-DB_URI=mongodb://localhost:27017/ldtaxgov_mydb
+# DB_URI=mongodb://localhost:27017/ldtaxgov_mydb
 # mongorestore --uri="mongodb://localhost:27017" --dir="/home/jahid-kali/Desktop/Projects/ldtaxgov/dbbackup"
+DB_URI=mongodb://ldtaxgov_ldtaxgov:jSy%26xD1Mo%40@104.161.43.62:27017/ldtaxgov_mydb?authSource=admin
 JWT_SECRET=0b51aacb41b7348e3820d6d2c24f1e1b655fc8b73ef830cfe30b2a4971f71c3128849c6ea66067e1cbf0f53b4b8bd5093a8283e0f35f0afeb889e310ab45063b
-PORT=3000
+PORT=30106
 frontend_url=https://1bd.xyz
 server_url=https://1bd.xyz
 
